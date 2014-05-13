@@ -43,7 +43,7 @@ int main(int argc, const char * argv[])
         // exercise of day 2
         XYPoint *myPoint;
         myPoint=[XYPoint alloc];
-        myPoint=[XYPoint init];
+        myPoint=[myPoint init];
         [myPoint setX:10];
         [myPoint setY:33];
         NSLog(@"my point ( %i ,%i)",[myPoint getX],[myPoint getY]);

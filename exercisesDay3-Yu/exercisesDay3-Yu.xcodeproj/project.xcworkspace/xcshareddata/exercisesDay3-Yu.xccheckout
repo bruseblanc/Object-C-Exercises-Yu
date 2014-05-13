@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>00EE30C9-4B17-4599-9FAE-4D846EF93652</string>
+	<string>341DC0FB-06F6-4FDA-9714-2890BC16C6CA</string>
 	<key>IDESourceControlProjectName</key>
 	<string>exercisesDay3-Yu</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>3380A9D2-233C-4699-9830-E9F186C17771</key>
-		<string>https://github.com/bruseblanc/YuDay3.git</string>
+		<key>F7DE6BE3-0412-44D5-B867-CFA4D3EE3C37</key>
+		<string>https://github.com/bruseblanc/Object-C-Exercises-Yu.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>exercisesDay3-Yu/exercisesDay3-Yu.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>3380A9D2-233C-4699-9830-E9F186C17771</key>
+		<key>F7DE6BE3-0412-44D5-B867-CFA4D3EE3C37</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/bruseblanc/YuDay3.git</string>
+	<string>https://github.com/bruseblanc/Object-C-Exercises-Yu.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>3380A9D2-233C-4699-9830-E9F186C17771</string>
+	<string>F7DE6BE3-0412-44D5-B867-CFA4D3EE3C37</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>3380A9D2-233C-4699-9830-E9F186C17771</string>
+			<string>F7DE6BE3-0412-44D5-B867-CFA4D3EE3C37</string>
 			<key>IDESourceControlWCCName</key>
-			<string>YuDay3</string>
+			<string>Object-C-Exercises-Yu</string>
 		</dict>
 	</array>
 </dict>
